@@ -1,0 +1,23 @@
+* {margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+font-family: "PP Neue Machina", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18;
+line-height: 26;
+}
+ul, ol {
+    list-style: none;
+}
+
+button {
+font-family: inherit;
+font-style: inherit;
+font-weight: inherit;
+font-size: inherit;
+line-height: inherit;
+}
