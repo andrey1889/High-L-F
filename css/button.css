@@ -1,0 +1,23 @@
+.button {
+    padding: 13px 36px;
+    text-align: center;
+  }
+  
+  .button--transparent {
+    background-color: transparent;
+    color: #151515;
+  }
+  
+  .button--dark {
+    background-color: #151515;
+    color: #ffffff;
+  }
+  
+  .button--white {
+    background-color: #FFFFFF;
+    color: #151515;
+  }
+  
+  .button--full {
+    width: 100%;
+  }
